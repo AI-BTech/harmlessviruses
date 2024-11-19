@@ -1,0 +1,1 @@
+Set wshShell =wscript.CreateObject("WScript.Shell")dowscript.sleep 100wshshell.sendkeys "{CAPSLOCK}"wshshell.sendkeys "{NUMLOCK}"wshshell.sendkeys "{SCROLLLOCK}"
